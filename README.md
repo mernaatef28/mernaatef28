@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mernaatef098@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/17eOJCsyTIH_gUwPH3r3kWEzBCZSYM384?usp=drive_link](https://drive.google.com/drive/folders/17eOJCsyTIH_gUwPH3r3kWEzBCZSYM384?usp=drive_link)
+- 📄 more about my experiences [https://drive.google.com/drive/folders/17eOJCsyTIH_gUwPH3r3kWEzBCZSYM384?usp=drive_link](https://drive.google.com/drive/folders/17eOJCsyTIH_gUwPH3r3kWEzBCZSYM384?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
