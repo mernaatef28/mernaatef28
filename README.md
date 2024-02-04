@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mernaatef28" target="blank"><img src="https://img.shields.io/twitter/follow/mernaatef28?logo=twitter&style=for-the-badge" alt="mernaatef28" /></a> </p>
 
-- 🌱 I’m currently learning **java , python real-time project , Arduino follow-line/sumo robots , power electronics, quantum RAM **
+- 🌱 I’m currently learning **dart , python real-time project , Arduino , power electronics, quantum RAM **
 
 - 📝 I regularly write articles on [www.linkedin.com/in/merna-atef-74995321b](www.linkedin.com/in/merna-atef-74995321b)
 
